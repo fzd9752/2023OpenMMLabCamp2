@@ -11,3 +11,5 @@ Second AI Camp (online) of OpenMMLab
 - [Homework 3 Challenge - Drinks Detection with RTMDet](./Homework3_MMDetection_rtmdet_balloon/challenge_rtmdet_cola.ipynb)
 
 - [Homework 4 - Segmentation with PSPNet](./Homework4_MMSegmentation/2_test.ipynb)
+
+- [Homework 5 - MMagic](./Homework5_MMagic/hw5.ipynb)
